@@ -1,5 +1,3 @@
-module github.com/xp
-
 go 1.18
 
 require (
