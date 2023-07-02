@@ -1,4 +1,4 @@
-module github.com/mmu-go-backend
+module github.com/xp
 
 go 1.18
 
